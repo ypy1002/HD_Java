@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+
+td {
+	width: 100px;
+	height: 100px;
+	border: 8px solid black;
+	background-image: url("cardImg.jpg");
+}
+
+table {
+	margin: auto;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+body {
+	background: -moz-linear-gradient(top, black 0%, #A1DBFF 200%) no-repeat;
+	background: -webkit-linear-gradient(top, black 0%,#A1DBFF 200%) no-repeat;
+}
+
+#startButton {
+	margin-left: 45%;
+	margin-bottom: 54px;
+	width: 155px;
+	height: 40px;
+	font-weight: bold;
+	color: white;
+	background: -moz-linear-gradient(top, black 0%, #A1DBFF 200%) no-repeat;
+	background: -webkit-linear-gradient(top, black 0%,#A1DBFF 200%) no-repeat;
+	border-radius: 10px;
+}
