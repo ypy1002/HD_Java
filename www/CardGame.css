@@ -13,10 +13,10 @@ table {
 	margin-top: 30px;
 }
 
-body {
+/* body {
 	background: -moz-linear-gradient(top, black 0%, #A1DBFF 200%) no-repeat;
 	background: -webkit-linear-gradient(top, black 0%,#A1DBFF 200%) no-repeat;
-}
+} */
 
 #startButton {
 	margin-left: 45%;
